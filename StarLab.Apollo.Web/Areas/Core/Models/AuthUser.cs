@@ -7,5 +7,6 @@ namespace StarLab.Apollo.Web.Areas.Core.Models
 {
     public class AuthUser
     {
+        private string LoginName { get; set; }
     }
 }
