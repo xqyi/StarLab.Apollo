@@ -14,7 +14,6 @@
 
 
   <ItemGroup>
-    <Folder Include="Areas\Core\Controllers\" />
     <Folder Include="Areas\Core\Data\" />
     <Folder Include="Areas\Core\Models\" />
     <Folder Include="Areas\Core\Views\" />
