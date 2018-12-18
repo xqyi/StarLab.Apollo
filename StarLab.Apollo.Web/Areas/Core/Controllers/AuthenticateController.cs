@@ -8,6 +8,10 @@ namespace StarLab.Apollo.Web.Areas.Core.Controllers
 {
     public class AuthenticateController : Controller
     {
+        /// <summary>
+        /// 
+        /// </summary>
+        /// <returns></returns>
         public IActionResult Index()
         {
             return View();
